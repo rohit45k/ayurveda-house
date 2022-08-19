@@ -2,10 +2,44 @@ header {
     padding: 0.5rem 2rem;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 32px;
+    height: 32px;
+}
+
+.logo a img {
+    width: 100%;
+    border-radius: 50%;
 }
 
 .menu {
     display: flex;
     flex: 0.5;
     justify-content: space-around;
+}
+
+.menu li a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.2rem;
+}
+
+.menu li a img {
+    width: 24px;
+    height: 24px;
+}
+
+.cta a {
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+}
+
+.cta a img {
+    width: 24px;
+    height: 24px;
 }
