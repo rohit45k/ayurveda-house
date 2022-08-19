@@ -1,7 +1,7 @@
 # ayurveda-house
 A sample project for internship assignment
 
-### Live Demo :
+### Live Demo : https://rohit45k.github.io/ayurveda-house/
 
 
 ### Description
